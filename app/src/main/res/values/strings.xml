@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BundleData</string>
+    <string name="button_submit_text">SUBMIT</string>
+</resources>
